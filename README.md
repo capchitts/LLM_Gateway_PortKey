@@ -1,7 +1,5 @@
 #  LLM Gateway with Portkey 
 
-https://letsgateway.streamlit.app/
-
 > **One-line summary:** An LLM Gateway is a proxy layer that sits between your application and any LLM provider — adding resilience, observability, and cost control with zero changes to your business logic.
 
 ---
